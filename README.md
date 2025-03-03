@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Abdul Rehman! 👋
 
-<!--
-**abdulrysrr/abdulrysrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+I'm a passionate **Laravel & PHP Developer** with years of experience of self learning web development, building scalable applications. 
 
-Here are some ideas to get you started:
+📈 **GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arehmanyaser&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 **Top Languages:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arehmanyaser&layout=compact&theme=radical)
+
+📫 **Get in Touch:**
+- Email: [a.rehman.yaser@gmail.com](mailto:a.rehman.yaser@gmail.com)
+- LinkedIn: [linkedin.com/in/arehmanyaser](https://www.linkedin.com/in/abdulrehmanyaser)
+
+
+Let's connect and build something amazing! 🚀

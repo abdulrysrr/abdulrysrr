@@ -22,10 +22,8 @@ I'm a passionate **Full Stack Web Developer & Python Programmer**. I specialize 
 Detailed Experience & Projects on my [portfolio](ary.fastnet.net.sa)
   
 📈 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arehmanyaser&show_icons=true&theme=radical)
+![abdulrysrr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrysrr&theme=dark&hide_border=true)
 
-🔥 **Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arehmanyaser&layout=compact&theme=radical)
 
 📫 **Get in Touch:**
 - Email: [a.rehman.yaser@gmail.com](mailto:a.rehman.yaser@gmail.com)

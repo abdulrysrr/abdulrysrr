@@ -1,26 +1,27 @@
 ### Hi there, I'm Abdul Rehman! 👋
 
-**🚀 About Me:**  
+**About Me:**  
 I'm a passionate **Full Stack Web Developer & Python Programmer**. I specialize in **modular architecture, developing scalable systems, and fixing bugs**.
 
-**💡 Key Skills:**  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abdulrysrr?cardType=github&theme=dark&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)  
+
+**Key Skills:**  
 - **Backend:** Laravel, PHP, Node.js, Express.js, Electron.js  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, React Native  
 - **Database:** MySQL, MongoDB  
 - **Other Skills:** Python, API Development, AI & Machine Learning, API Documentation  
 
-**📌 Education:**  
-- **A-Levels (2024)** - Physics, Computer Science, Mathematics  
-  - Cambridge Outstanding Learner Award (Top in Region, AS CS)  
-- **O-Levels (2022)** - Achieved top grades in core subjects  
-- **IGCSE (2020)** - High distinction in subjects  
+**Education:**  
+- **A-Levels (2024)** - A* in Physics, Computer Science, Mathematics
+  - Valedictorian - Batch of 2024     
+  - Cambridge Outstanding Learner Award (Top in Region, AS CS)
+  - Cambridge Outstanding Learner Award (Best Across 3, A2)  
+- **O-Levels (2022)** - Achieved A* in Phy, Chem, Computer Science, Physics, Mathematics  
 
-**💼 Professional Experience:**  
+**Professional Experience:**  
 - **Full Stack Web Developer (Freelance, 2020 - Present)**  
   Detailed Experience & Projects on my [portfolio](ary.fastnet.net.sa)  
 
-**📈 GitHub Stats:**  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abdulrysrr?cardType=github&theme=dark&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)  
 
 **📫 Get in Touch:**  
 - **Email:** [a.rehman.yaser@gmail.com](mailto:a.rehman.yaser@gmail.com)  

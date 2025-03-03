@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Web Developer & Python Programmer**. I specialize 
 Detailed Experience & Projects on my [portfolio](ary.fastnet.net.sa)
   
 📈 **GitHub Stats:**
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrysrr&theme=dark&mode=weekly&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abdulrysrr?cardType=github&theme=dark&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
 📫 **Get in Touch:**
